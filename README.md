@@ -1,6 +1,8 @@
 # Overwatch Stat Bot
 ### Discord bot using the Overwatch stat from op.gg
 
+# !경고!: 이 봇은 더이상 작동하지 않습니다. 개발자가 222패치 이후로 오버워치를 접었습니다.
+
 * ow_stat_bot은 op.gg로부터 오버워치 전적을 받아오는 봇입니다.
 * 현재로서는 배틀태그 (닉네임과 숫자의 조합)을 입력받아 업데이트하거나 간략하게 요약된 전적을 불러오는 기능이 구현되어 있습니다.
 ## 설치
